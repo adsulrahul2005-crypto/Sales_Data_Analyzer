@@ -1,0 +1,21 @@
+Order_ID,Date,Product,Category,City,Quantity,Price
+1001,2026-01-05,Laptop,Electronics,Pune,2,55000
+1002,2026-01-07,Mouse,Electronics,Mumbai,5,800
+1003,2026-01-10,Chair,Furniture,Pune,3,4500
+1004,2026-01-15,Keyboard,Electronics,Nashik,4,1500
+1005,2026-02-02,Table,Furniture,Mumbai,2,7000
+1006,2026-02-08,Monitor,Electronics,Pune,2,12000
+1007,2026-02-12,Desk,Furniture,Nashik,3,8500
+1008,2026-02-20,Headphones,Electronics,Mumbai,6,2200
+1009,2026-03-03,Office Chair,Furniture,Pune,2,9000
+1010,2026-03-09,Keyboard,Electronics,Mumbai,5,1500
+1011,2026-03-14,Laptop,Electronics,Nashik,1,55000
+1012,2026-03-20,Table,Furniture,Pune,4,7000
+1013,2026-04-02,Mouse,Electronics,Pune,10,800
+1014,2026-04-11,Monitor,Electronics,Mumbai,3,12000
+1015,2026-04-18,Desk,Furniture,Pune,2,8500
+1016,2026-05-05,Headphones,Electronics,Nashik,8,2200
+1017,2026-05-12,Office Chair,Furniture,Mumbai,3,9000
+1018,2026-05-22,Laptop,Electronics,Pune,2,55000
+1019,2026-06-01,Table,Furniture,Nashik,2,7000
+1020,2026-06-15,Monitor,Electronics,Pune,4,12000
